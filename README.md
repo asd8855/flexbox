@@ -3,7 +3,7 @@
 > demo
 
 ## Build Setup
-
+[image](flexbox.pdf)
 ``` bash
 # install dependencies
 npm install
