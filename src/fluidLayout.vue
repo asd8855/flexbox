@@ -9,7 +9,8 @@
 
 <script>
   export default {
-    name: "fluid-layout"
+    name: "fluid-layout",
+
   }
 </script>
 
@@ -32,4 +33,5 @@
   .fluid {
     text-align: center;
   }
+
 </style>
